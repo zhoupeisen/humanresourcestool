@@ -7,9 +7,9 @@ remove information pertaining to an employee.
 
 The following items are recommended to be obtained and used for this console application:
 
-Microsoft SQL Server 2017 Express Edition
-Microsoft Visual Studio Community 2017
-Microsoft SQL Server Managment Studio 2017
+Microsoft SQL Server 2017 Express Edition,
+Microsoft Visual Studio Community 2017,
+Microsoft SQL Server Managment Studio 2017.
 
 Once all of these are obtained and installed, now to go grab https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks-oltp-install-script.zip
 unzip this to this location: c:\Samples. Then use SSMS to open a particular file called: 'AdventureWorks-oltp-install-script.sql'. 
